@@ -1,0 +1,7 @@
+test:
+    user_name: SCHERZTC@UCMAIL.UC.EDU
+    partner_id: 1927411
+    administrator_secret: @YOUR_ADMIN_SECRET@
+    secret: @YOUR_USER_SECRET@
+    service_url: www.kaltura.com
+    timeout: 120
